@@ -1,0 +1,24 @@
+NOVEDADES DE LA VERSIÓN 1.0.0.1
+=================================
+═══════════════════════════════
+      NUEVAS CARACTERÍSTICAS
+═══════════════════════════════
+• Sistema de actualizaciones automáticas implementado
+• La interfaz principal ahora muestra las actualizaciones del sistema si están disponibles.
+
+NOVEDADES DE LA VERSIÓN 1.0.0.2
+=================================
+═══════════════════════════════
+      NUEVAS CARACTERÍSTICAS
+═══════════════════════════════
+• Sistema de verificación si existen las base de datos en servidor MySQL de los diferentes ventas,
+IMPORTADOS, NOFACT, NACIONAL, MAKITA,LIBERTAD. Sino existen crea las bases de datos y sus tablas de cada una.
+• Reporte Existencia se agregaron botones para imprimir, vista previa y exportar a Excel.
+═══════════════════════════════
+      MEJORAS Y CORRECCIONES
+═══════════════════════════════
+• ✓ En cotización nueva al usar la función subir, se corrigió, el poder subir productos con cantidad de mas de 999 piezas.
+• ✓ Reporte Existencia ahora se selecciona el mes actual al abrir el reporte, al estar en el campo de Año y dar Enter se mueve a la tabla.
+se corrige error al tratar de imprimir. Ahora cuenta con navegación entre páginas con la rueda del mouse en la vista previa de impresión.
+• ✓ 
+• ✓ 
