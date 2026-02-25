@@ -6,6 +6,8 @@ NOVEDADES DE LA VERSIÓN 1.0.0.1
 • Sistema de actualizaciones automáticas implementado
 • La interfaz principal ahora muestra las actualizaciones del sistema si están disponibles.
 
+
+
 NOVEDADES DE LA VERSIÓN 1.0.0.2
 =================================
 ═══════════════════════════════
@@ -14,13 +16,13 @@ NOVEDADES DE LA VERSIÓN 1.0.0.2
 • Sistema de verificación si existen las base de datos en servidor MySQL de los diferentes ventas,
 IMPORTADOS, NOFACT, NACIONAL, MAKITA,LIBERTAD. Sino existen crea las bases de datos y sus tablas de cada una.
 • Reporte Existencia se agregaron botones para imprimir, vista previa y exportar a Excel.
+• En Subir Archivo para actualizar costos e inventario desde Excel, se agrego en el botón derecho del mouse las opciones
+de Exportar a Excel y filtrar si el costo de Excel e Inventario son diferentes.
 ═══════════════════════════════
       MEJORAS Y CORRECCIONES
 ═══════════════════════════════
 • ✓ En cotización nueva al usar la función subir, se corrigió, el poder subir productos con cantidad de mas de 999 piezas.
 • ✓ Reporte Existencia ahora se selecciona el mes actual al abrir el reporte, al estar en el campo de Año y dar Enter se mueve a la tabla.
 se corrige error al tratar de imprimir. Ahora cuenta con navegación entre páginas con la rueda del mouse en la vista previa de impresión.
-• ✓ 
-• ✓ 
-• ✓ 
-• ✓ 
+• ✓ En Subir Archivo para actualizar costos e inventario desde Excel, ahora muestra el total de artículos y el importe total de la operación
+así como la impresión de los movimientos al final de afectar inventarios y existencia de artículos.
