@@ -26,3 +26,13 @@ de Exportar a Excel y filtrar si el costo de Excel e Inventario son diferentes.
 se corrige error al tratar de imprimir. Ahora cuenta con navegación entre páginas con la rueda del mouse en la vista previa de impresión.
 • ✓ En Subir Archivo para actualizar costos e inventario desde Excel, ahora muestra el total de artículos y el importe total de la operación
 así como la impresión de los movimientos al final de afectar inventarios y existencia de artículos.
+
+NOVEDADES DE LA VERSIÓN 1.0.0.3
+=================================
+═══════════════════════════════
+      MEJORAS Y CORRECCIONES
+═══════════════════════════════
+• ✓ En cotización nueva al usar la función subir, ahora se actualiza el color de cada fila.
+• ✓ Inventario Costeado ahora se selecciona el mes actual al abrir el reporte.
+• ✓ En Subir Archivo para actualizar costos e inventario desde Excel, en la impresión, ahora se muestra CANTIDAD, CODIGO, DESCRIPCION,
+COSTO, TOTAL, COSTO ANTERIOR E INVENTARIO ANTERIOR.
